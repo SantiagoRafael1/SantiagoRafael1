@@ -23,7 +23,7 @@
   
 
 
-##
+#####
   
 ## Minhas Habilidades
 
@@ -36,4 +36,4 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/t4V7gk4G/pngegg.png">
 </div>
   
-  ##
+  #####
