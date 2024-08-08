@@ -2,7 +2,8 @@
 - 🔭 Rafael Santiago
 - 🌱 Análise e Desenvolvimento de Sistemas - FICR
 - ⚡ Tecnologias - ReactJs | ViteJs | Bs5 | JAVASPRING | PHP | MYSQL | APEX & LWC | FLUTTER
-- 💬 Atualmente Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Cátolica, possuo Formação Técnica em Administração e também Formação técnica em Desenvolvimento WEB. Minha capacitação em desenvolvimento Web foi realizada pela Accenture em parceria com a Rede Cidadã (Projeto START), lá pude expandir todo o conhecimento na área de Tecnologia, mas atualmente estou em buscar de formentar todo esse conhecimento que tive com o ingresso na faculdade em parceria com o Porto Digital além de realizar estudos por fora, busco atualmente conhecimento em Back-End, salesforce, etc, assim como uma oportunidade de ingresso ao mercado de trabalho para adquirir uma maior experiência na área de atuação.
+- 💬 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Católica e tenho formação técnica em Administração e Desenvolvimento Web, obtida pelo Projeto START, uma parceria entre a Accenture e a Rede Cidadã. Trabalhei como estagiário em ReactJS na Propig e na Prefeitura do Recife. Atualmente, sou desenvolvedor ReactJS e Python RPA na Perpart. Estou buscando oportunidades para aprofundar meus conhecimentos em Back-End e Salesforce, além de ganhar mais experiência prática no mercado de trabalho.
+
 
 
 
