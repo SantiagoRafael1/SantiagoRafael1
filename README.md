@@ -1,8 +1,16 @@
+👨‍💻 Rafael Santiago
+- 🌱 Formação:  
+    Análise e Desenvolvimento de Sistemas - FICR  
+    Técnico em Administração e Desenvolvimento Web (Projeto START, parceria Accenture e Rede Cidadã)  
+- ⚡ Tecnologias que utilizo:  
+  Frontend: ReactJS, ViteJS,NextJs, Material UI, BS5;  
+  Backend: Node.js, Java Spring;  
+  Banco de Dados: MySQL;  
+  Outras Tecnologias: PHP, APEX, LWC (Lightning Web Components), Flutter;    
+  Ferramentas de Teste: Vitest;    
+  Comunicação em Tempo Real: Socket.io;  
 
-- 🔭 Rafael Santiago
-- 🌱 Análise e Desenvolvimento de Sistemas - FICR
-- ⚡ Tecnologias - ReactJs | ViteJs | Bs5 | JAVASPRING | PHP | MYSQL | APEX & LWC | FLUTTER
-- 💬 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Católica e tenho formação técnica em Administração e Desenvolvimento Web, obtida pelo Projeto START, uma parceria entre a Accenture e a Rede Cidadã. Trabalhei como estagiário em ReactJS na Propig e na Prefeitura do Recife. Atualmente, sou desenvolvedor ReactJS e Python RPA na Perpart. Estou buscando oportunidades para aprofundar meus conhecimentos em Back-End e Salesforce, além de ganhar mais experiência prática no mercado de trabalho.
+- 💬 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Católica e tenho formação técnica em Administração e Desenvolvimento Web, obtida pelo Projeto START, uma parceria entre a Accenture e a Rede Cidadã. Atualmente, sou desenvolvedor júnior na Perpart, onde foco na criação de ferramentas para melhorar e automatizar processos dentro da empresa. Utilizo ReactJS, Vite, Material UI para o frontend e Node.js no backend. Além das minhas atividades de desenvolvimento, também atuo como analista de requisitos e, ocasionalmente, como tech lead, colaborando na definição de soluções e no acompanhamento de projetos.
 
 
 
